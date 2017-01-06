@@ -1,0 +1,18 @@
+{
+  "name": "paloma-benchmark",
+  "description": "paloma-benchmark",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-router": "7.0.1",
+    "paloma": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palomajs/paloma-benchmark"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4"
+  }
+}
